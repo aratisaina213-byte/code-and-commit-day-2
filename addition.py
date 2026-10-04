@@ -6,3 +6,5 @@ d=a-b
 print(d)
 f=a*b
 print(f)
+v=a/b
+print(v)
